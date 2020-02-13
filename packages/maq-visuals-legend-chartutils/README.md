@@ -2,8 +2,8 @@
 
 ## Usage
 Learn how to install and use the chartutils in your custom visuals:
-* [Installation Guide](https://github.com/maqsoftware/PowerBI-visuals/tree/master/packages/maq-visuals-legend-chartutils/docs/usage/installation-guide.md)
-* [Usage Guide](https://github.com/maqsoftware/PowerBI-visuals/tree/master/packages/maq-visuals-legend-chartutils/docs/usage/usage-guide.md)
+* [Installation Guide](https://github.com/maqsoftware/RingChart/tree/master/packages/maq-visuals-legend-chartutils/docs/usage/installation-guide.md)
+* [Usage Guide](https://github.com/maqsoftware/RingChart/tree/master/packages/maq-visuals-legend-chartutils/docs/usage/usage-guide.md)
 
 ## Change Log
 > Added option to include measure in legend

@@ -9,9 +9,9 @@
   "author": "MAQ Software",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maqsoftware"
+    "url": "https://github.com/maqsoftware/RingChart/tree/master/packages/maq-visuals-legend-chartutils#issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/maqsoftware/RingChart/tree/master/packages/maq-visuals-legend-chartutils#readme",
   "files": [
     "lib"
   ],
