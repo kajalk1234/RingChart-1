@@ -6,7 +6,7 @@ Learn how to install and use the chartutils in your custom visuals:
 * [Usage Guide](https://github.com/maqsoftware/RingChart/tree/master/packages/maq-visuals-legend-chartutils/docs/usage/usage-guide.md)
 
 ## Change Log
-> Added option to include measure in legend
+> Added option to include measure in legend and updated interactivity utils package
 
 ## License
 See the [LICENSE](./LICENSE) file for license rights and limitations (MIT).
