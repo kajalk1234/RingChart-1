@@ -4,12 +4,12 @@
     "displayName": "Ring Chart by MAQ Software",
     "guid": "DonutChartGMO1461469098694",
     "visualClassName": "RingChart",
-    "version": "4.5.3",
+    "version": "4.6.0",
     "description": "A doughnut chart represent data as slices, where the size of each slice is determined by the slice value relative to the sum of the values of all slices. Each data series that you plot in a doughnut chart adds a ring to the chart. These rings have different colors for easy representation of the data slices in doughnut chart.\n",
     "supportUrl": "https://github.com/maqsoftware/PowerBI-visuals/issues",
     "gitHubUrl": "https://github.com/maqsoftware/PowerBI-visuals/"
   },
-  "apiVersion": "2.1.0",
+  "apiVersion": "2.5.0",
   "author": {
     "name": "MAQ Software",
     "email": "support@maqsoftware.com"
@@ -28,7 +28,7 @@
     "node_modules/powerbi-visuals-utils-dataviewutils/lib/index.js",
     "node_modules/powerbi-visuals-utils-formattingutils/lib/index.js",
     "node_modules/powerbi-visuals-utils-interactivityutils/lib/index.js",
-    "node_modules/powerbi-visuals-utils-chartutils/lib/index.js"
+    "node_modules/maq-visuals-legend-chartutils/lib/index.js"
   ],
   "style": "style/visual.less",
   "capabilities": "capabilities.json"
